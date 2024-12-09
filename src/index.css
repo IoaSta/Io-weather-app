@@ -1,5 +1,10 @@
 body {
-  background-color: #f9f7fe;
+  background: radial-gradient(
+    668px at 2.6% 8.3%,
+    rgb(219, 112, 147) 0%,
+    rgb(255, 228, 225) 49.5%,
+    rgb(200, 130, 200) 99.4%
+  );
   font-family: "Roboto", sans-serif;
 }
 a {
